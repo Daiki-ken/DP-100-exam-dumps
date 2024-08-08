@@ -4,6 +4,7 @@
 **Introduction to DP-100 and DumpsVibe**
 
 The DP-100 certification is essential for professionals looking to validate their skills in designing and implementing data science solutions on Microsoft Azure. With DumpsVibe's expertly crafted [DP-100 exam dumps](https://www.dumpsvibe.com/microsoft/dp-100-dumps.html), DP-100 dumps, and DP-100 practice questions, you can confidently prepare for the exam.** DumpsVibe provides a 100% passing guarantee, 90 days of free updates, and free demo questions to ensure your success. 🚀**
+
 ![DUMPSVIBE DEFAULT IMAGE](https://github.com/user-attachments/assets/f24cfa13-3278-4717-9125-655029553c6f)
 
 **Understanding the DP-100 Exam**
@@ -28,6 +29,7 @@ DumpsVibe ensures success in the DP-100 exam with meticulously crafted study res
 **Frequent Updates and Free Samples:**
 
 Stay updated with the latest exam content. **DumpsVibe offers 90 days of free updates**, ensuring access to current information. Free sample questions are also available to give you a preview of the high-quality material. 📅
+
 ![DUMPSVIBE DEFAULT](https://github.com/user-attachments/assets/225e198a-3b48-40b2-8ebb-bb35bfeac265)
 
 **Detailed Preparation Strategy**
